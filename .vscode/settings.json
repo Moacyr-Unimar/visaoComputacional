@@ -1,0 +1,17 @@
+{
+  "python.languageServer": "Pylance",
+  "python.testing.pytestEnabled": true,
+  "python.analysis.diagnosticMode": "workspace",
+  "python.analysis.inlayHints.pytestParameters": true,
+  "python.analysis.typeCheckingMode": "off",
+  "python.analysis.diagnosticSeverityOverrides": {},
+  "python.analysis.completeFunctionParens": true,
+  "python.analysis.importFormat": "relative",
+  "python.analysis.inlayHints.callArgumentNames": "all",
+  "python.analysis.inlayHints.functionReturnTypes": true,
+  "python.analysis.inlayHints.variableTypes": true,
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  }
+}
